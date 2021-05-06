@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525170567427",
+    "project_id": "posedetection-b9095",
+    "storage_bucket": "posedetection-b9095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525170567427:android:5860e10e060b1b308ee136",
+        "android_client_info": {
+          "package_name": "com.google.mlkit.vision.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525170567427-vheagsc516c6ma76dt2183g0lsie5ev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXxHHbeRa6TOorvOQk7ZAksL6qqeCu7wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525170567427-vheagsc516c6ma76dt2183g0lsie5ev3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

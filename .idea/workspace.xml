@@ -31,49 +31,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98c1f499-02c6-4cfa-adfc-84224c09345c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/ML_Kit_Vision_Quickstart.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ML_Kit_Vision_Quickstart.app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/BitmapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/BitmapUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraImageGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraImageGraphic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSourcePreview.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSourcePreview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraXViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraXViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/FrameMetadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/FrameMetadata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/GraphicOverlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/GraphicOverlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/InferenceInfoGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/InferenceInfoGraphic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/ScopedExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/ScopedExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/VisionImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/VisionImageProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/VisionProcessorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/VisionProcessorBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseDetectorProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseDetectorProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseGraphic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/ClassificationResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/ClassificationResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/EMASmoothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/EMASmoothing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifierProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifierProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseEmbedding.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseEmbedding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/RepetitionCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/RepetitionCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/ChooserActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/ChooserActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LivePreviewActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LivePreviewActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LoginActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/SignupActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/SignupActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/TaskExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/TaskExt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/VisionProcessorBase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/VisionProcessorBase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseDetectorProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseDetectorProcessor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseGraphic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseGraphic.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXLivePreviewPreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXLivePreviewPreferenceFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXSourceDemoPreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXSourceDemoPreferenceFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/LivePreviewPreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/LivePreviewPreferenceFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/PreferenceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/PreferenceUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/SettingsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/StillImagePreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/StillImagePreferenceFragment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,10 +189,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="118" key="AndroidCreateResourceDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1620349545711" />
-    <state x="263" y="118" key="AndroidCreateResourceFileDialog" timestamp="1620316104081">
+    <state x="263" y="118" key="AndroidCreateResourceFileDialog" timestamp="1620369727500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="118" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1620316104081" />
+    <state x="263" y="118" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1620369727500" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1620351276494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

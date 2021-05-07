@@ -44,7 +44,8 @@
             android:value="barcode,face,ocr,ica" />
 
         <activity
-            android:name=".kotlin.LoginActivity">
+            android:name=".kotlin.LoginActivity"
+            android:theme="@style/Realtheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

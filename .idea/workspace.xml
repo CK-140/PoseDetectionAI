@@ -30,20 +30,65 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c1f499-02c6-4cfa-adfc-84224c09345c" name="Default Changelist" comment="" />
+    <list default="true" id="98c1f499-02c6-4cfa-adfc-84224c09345c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/ML_Kit_Vision_Quickstart.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ML_Kit_Vision_Quickstart.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/BitmapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/BitmapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraImageGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraImageGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSourcePreview.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraSourcePreview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraXViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/CameraXViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/FrameMetadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/FrameMetadata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/GraphicOverlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/GraphicOverlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/InferenceInfoGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/InferenceInfoGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/ScopedExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/ScopedExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/VisionImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/VisionImageProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/VisionProcessorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/VisionProcessorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseDetectorProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseDetectorProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/PoseGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/ClassificationResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/ClassificationResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/EMASmoothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/EMASmoothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifierProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifierProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseEmbedding.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseEmbedding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/PoseSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/RepetitionCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/RepetitionCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/java/posedetector/classification/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/ChooserActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/ChooserActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LivePreviewActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LivePreviewActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/LoginActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/SignupActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/SignupActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/TaskExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/TaskExt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/VisionProcessorBase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/VisionProcessorBase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseDetectorProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseDetectorProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseGraphic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/kotlin/posedetector/PoseGraphic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXLivePreviewPreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXLivePreviewPreferenceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXSourceDemoPreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/CameraXSourceDemoPreferenceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/LivePreviewPreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/LivePreviewPreferenceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/PreferenceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/PreferenceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/StillImagePreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/mlkit/vision/demo/preference/StillImagePreferenceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@8db821cf]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\CHITWAN\.android\avd\Pixel_3a_API_30_x86.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1s9gtEpS7yKFKQmGANUon2NxNby" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,13 +98,15 @@
   <component name="PropertiesComponent">
     <property name="ResourceManagerPrefKey.ResourceType" value="NAVIGATION" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android-custom-viewE:/Androidprojects/mlkit/android/vision-quickstart/app/src/main/java/com/google/mlkit/vision/demo/CameraSourcePreview.java_SELECTED" value="CameraSourcePreview" />
     <property name="android-custom-viewE:/Androidprojects/mlkit/android/vision-quickstart/app/src/main/java/com/google/mlkit/vision/demo/GraphicOverlay.java_SELECTED" value="GraphicOverlay" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../Androidsdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Rfit" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Signing Configs" />
@@ -169,42 +216,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="200" y="110" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1620291168840" />
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620318286530">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620348709710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1620318286530" />
-    <state x="263" y="118" key="AndroidCreateResourceDirectoryDialog" timestamp="1620319570999">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1620348709710" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620347595117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="118" key="AndroidCreateResourceDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1620319570999" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1620347595117" />
+    <state x="263" y="118" key="AndroidCreateResourceDirectoryDialog" timestamp="1620349545711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="118" key="AndroidCreateResourceDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1620349545711" />
     <state x="263" y="118" key="AndroidCreateResourceFileDialog" timestamp="1620316104081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="118" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1620316104081" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1620327867572">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1620351276494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620327867572" />
-    <state x="525" y="261" key="Github.ShareDialog" timestamp="1620325214248">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620351276494" />
+    <state x="525" y="261" key="Github.ShareDialog" timestamp="1620327985724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="525" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1620325214248" />
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1620325830978">
+    <state x="525" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1620327985724" />
+    <state x="374" y="61" key="Github.UntrackedFilesDialog" timestamp="1620327991927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620325830978" />
-    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1620325830978">
+    <state x="374" y="61" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1620327991927" />
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1620349090100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620325830978" />
-    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1620325830977">
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620349090100" />
+    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1620349090100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620325830977" />
-    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1620325830978">
+    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620349090100" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1620349090100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620325830978" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620349090100" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1620349090100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620349090100" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1620359078664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620359078664" />
     <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1620319551496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

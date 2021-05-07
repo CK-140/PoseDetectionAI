@@ -29,14 +29,8 @@
         android:name="androidx.multidex.MultiDexApplication"
         android:icon="@drawable/logo_mlkit"
         android:label="@string/app_name"
-        android:theme="@style/Theme.AppCompat">
-        <activity android:name=".kotlin.SignupActivity"></activity>
-        <activity android:name=".kotlin.LoginActivity">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+        android:theme="@style/Realtheme">
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter> </activity>
 
         <meta-data
             android:name="com.google.android.gms.version"
@@ -50,15 +44,17 @@
             android:value="barcode,face,ocr,ica" />
 
         <activity
-            android:name=".kotlin.LivePreviewActivity"
-            android:exported="true"
-            android:theme="@style/AppTheme">
+            android:name=".kotlin.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".kotlin.SignupActivity"></activity>
+        <activity android:name=".kotlin.LivePreviewActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme"></activity>
         <!--
   <activity
             android:name=".java.ChooserActivity"

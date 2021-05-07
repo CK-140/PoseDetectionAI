@@ -77,6 +77,7 @@
         app:layout_constraintLeft_toLeftOf="@+id/useless_textview" />
 
     <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/useless_textview2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="52dp"
